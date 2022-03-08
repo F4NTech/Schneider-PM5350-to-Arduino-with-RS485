@@ -1,4 +1,5 @@
 #include <SoftwareSerial.h>
+//By Afdhal Zikra @datacakra `Hardware Engineer 7/3/22
 const int rxPin = 2;
 const int txPin = 3;
 SoftwareSerial mySerial(2, 3);
